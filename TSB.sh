@@ -248,6 +248,17 @@ Bano="mkdir"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 termux-setup-storage
 echo ""
 $Bano /$HOME/.termux
