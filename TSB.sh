@@ -2,6 +2,8 @@ echo " "
 echo " "
 pkg install figlet -y
 echo " "
+pkg install toilet -y
+echo " "
 clear
 sleep 2.0
 echo " "
