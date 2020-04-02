@@ -7,6 +7,7 @@ sleep 2.0
 echo " "
 echo " "
 figlet Termux_S_B | toilet -f term -F gay
+echo " its take some time wait"
 sleep 10.0
 echo ""
 echo ""
