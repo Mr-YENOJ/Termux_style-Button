@@ -15,9 +15,9 @@ echo " "
 echo " "
 cd /data/data/com.termux/files/usr/etc
 ls
-rm bash.bashrc
+rm -rf bash.bashrc
 cd Termux_style-Button
-cp bash.bashrc /data/data/com.termux/files/usr/etc
+cp -rf bash.bashrc /data/data/com.termux/files/usr/etc
 cd
 clear
 cd Termux_style-Button
