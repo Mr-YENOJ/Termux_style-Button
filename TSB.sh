@@ -2,6 +2,9 @@ echo " "
 echo " "
 pkg install figlet -y
 echo " "
+clear
+sleep 2.0
+echo " "
 echo " "
 figlet Termux_S_B | toilet -f term -F gay
 sleep 10.0
