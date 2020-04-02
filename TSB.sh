@@ -274,4 +274,7 @@ cd
 #kaat gaya tumhara koi bhee button add nhi ho raha majaaa la raha tha
 #ya command fack ha 😂
 #tum pagal ho maja la raha hu 
-bash
+#koi bhee button add nhi hoga  
+clear
+exit
+
