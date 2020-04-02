@@ -238,9 +238,9 @@ clear
 termux-setup-storage
 echo ""
 mkdir /$HOME/.termux
-echo "extra-keys = [['/','ls','$','~','UP','cd','*'],['exit','CTRL','ENTER','LEFT','DOWN','RIGHT','.']]" >> $HOME/.termux/termux.properties
+echo "extra-keys = [['/','cd','$','~','UP','chmod','*'],['exit','CTRL','bash','LEFT','DOWN','RIGHT','.']]" >> $HOME/.termux/termux.properties
 clear
-#maja aya mujha
+#maja aya mujha ya bana ma kuch nhi mila ga tumha kyo ke ya fack ha ..
 clear
 clear
 cd
