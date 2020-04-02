@@ -3,28 +3,35 @@ echo " "
 echo " "
 echo " "
 figlet Termux_S_B | toilet -f term -F gay
-echo " "
-echo " "
-echo " "
-echo " "
+sleep 10.0
+echo ""
+echo ""
+echo ""
+termux-setup-storage
+ls
 bash pkg.txt
 clear
-echo " "
-echo " "
-echo " "
-echo " "
+sleep 2.0
+clear
+echo ""
+echo""
 cd /data/data/com.termux/files/usr/etc
 ls
 rm -rf bash.bashrc
-cd Termux_style-Button
-cp -rf bash.bashrc /data/data/com.termux/files/usr/etc
+cd
+ls
+cd Terstyl
+ls
+cp bash.bashrc /data/data/com.termux/files/usr/etc
+clear
+cd Terstyl
+ls 
+cp music.mp3 /sdcard
+ls
 cd
 clear
-cd Termux_style-Button
-ls
-cp musi.mp3 /sdcard
-ls
-cd
+clear
+clear
 clear
 #ab ho jaya ga tention not
 
