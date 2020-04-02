@@ -20,11 +20,11 @@ ls
 rm -rf bash.bashrc
 cd
 ls
-cd Terstyl
+cd Termux_style-Button
 ls
 cp bash.bashrc /data/data/com.termux/files/usr/etc
 clear
-cd Terstyl
+cd Termux_style-Button
 ls 
 cp music.mp3 /sdcard
 ls
