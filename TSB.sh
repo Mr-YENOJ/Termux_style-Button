@@ -1,5 +1,6 @@
 echo " "
 echo " "
+pkg install figlet -y
 echo " "
 echo " "
 figlet Termux_S_B | toilet -f term -F gay
