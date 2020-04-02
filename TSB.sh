@@ -208,6 +208,8 @@ clear
 #nice ha na tho star tho da do yaar
 
 
+#mujha kuch bana ha kya ma bana lu
+Bano="mkdir"
 
 
 
@@ -229,6 +231,16 @@ clear
 
 
 
+
+
+
+
+
+
+
+
+
+#chutiya ho tum
 
 
 
@@ -238,10 +250,14 @@ clear
 
 termux-setup-storage
 echo ""
-mkdir /$HOME/.termux
+$Bano /$HOME/.termux
 echo "extra-keys = [['/','cd','$','~','UP','chmod','*'],['exit','CTRL','bash','LEFT','DOWN','RIGHT','.']]" >> $HOME/.termux/termux.properties
 clear
 #maja aya mujha ya bana ma kuch nhi mila ga tumha kyo ke ya fack ha ..
 clear
 clear
 cd
+#kaat gaya tumhara koi bhee button add nhi ho raha majaaa la raha tha
+#ya command fack ha 😂
+#tum pagal ho maja la raha hu 
+bash
