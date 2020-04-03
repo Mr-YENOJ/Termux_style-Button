@@ -35,9 +35,8 @@ cd Termux_style-Button
 ls 
 cp music.mp3 /sdcard
 ls
-cd
-clear
 bash main.sh
+cd
 clear
 clear
 clear
