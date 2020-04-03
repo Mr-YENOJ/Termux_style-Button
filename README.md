@@ -1,4 +1,4 @@
-# Termux_style-Button
+# Termux_style-Button v1.2
 This is a termux terminal new interface with new keys this help you to work without hacker keyboard this is best for hacker keyboard user.
 ## About Terstyl :
 This is an termux tool which make/modify you termux interface with an new design amd with sound effect with new keys which make your skills next lvl.This tool is work in both rooted and non-rooted Android phone.
