@@ -37,6 +37,7 @@ cp music.mp3 /sdcard
 ls
 cd
 clear
+bash main.sh
 clear
 clear
 clear
