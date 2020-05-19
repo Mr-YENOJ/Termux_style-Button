@@ -9,7 +9,7 @@ echo "
                | '  \ || (_-< / _|
                |_|_|_\_,_/__/_\__| "
 echo " "
-mpv /sdcard/music.mp3 /dev/null 2>&1 &
+mpv /sdcard/music.mp3 > /dev/null 2>&1 &
 clear
 clear
 sleep 5.0
